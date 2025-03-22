@@ -3,7 +3,7 @@
   "port": 50000,
 
   "graphics_mode": "minotauro",
-  "image_directory": "./images/",
+  "image_directory": "../images/",
 
   "background_color": "lightgray",
   "step_color": "turquoise",
